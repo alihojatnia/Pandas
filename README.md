@@ -1,4 +1,8 @@
-### Pandas
+### Pandas & Fireduck
+FireDucks is a python library developed by NEC to speed up the analysis of “pandas”. 
+'''
+pip install fireducks
+'''
 
 #### Handling Missing Values
 ```
